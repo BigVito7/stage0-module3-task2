@@ -6,8 +6,8 @@ public class AdvancedNamingConvention {
     private int age;
     private int phoneNumber;
 
-    static void callToFriend() {
-        System.out.println("To call Violette after she will be over: " + ADULT_AGE);
+    void callToFriend() {
+        //some code
     }
 
     void callByNumber(int Number) {

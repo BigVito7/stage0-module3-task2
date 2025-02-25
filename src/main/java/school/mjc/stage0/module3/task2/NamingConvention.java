@@ -11,6 +11,5 @@ public class NamingConvention {
         int variableSix = 6;
         int variableSeven = 7;
         int variableEight = 8;
-        AdvancedNamingConvention.callToFriend();
     }
 }
